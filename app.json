@@ -4,6 +4,9 @@
       "eas": {
         "projectId": "7ea894c4-5872-4628-bfd8-384306036dc2"
       }
+    },
+    "android": {
+      "package": "com.m_choriyev.expoapp"
     }
   }
 }
